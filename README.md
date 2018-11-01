@@ -22,6 +22,8 @@
 
 ### Display
 
+![alt tag](https://github.com/lastingyeh/clima-swift/blob/master/clima.gif)
+
 ### Resources and copyright by
 
 1. [GitHub Clima-iOS12](https://github.com/londonappbrewery/Clima-iOS12)
